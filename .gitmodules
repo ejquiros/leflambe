@@ -2,3 +2,8 @@
 	path = grupo-ola/ola-cr
 	url = git@github.com:grupo-ola/ola-cr.git
 	branch = 13.0
+
+[submodule "grupo-ola/ola-cr"]
+	path = grupo-ola/ola-cr
+	url = git@github.com:grupo-ola/ola-cr.git
+	branch = 13.0
